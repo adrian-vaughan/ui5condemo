@@ -1,0 +1,11 @@
+ID;name;email;customerNumber;totalPurchaseValue;totalRewardPoints;totalRedeemedRewardPoints
+f67a5f27-2d59-48db-a4e4-3e073d2870fb;John Doe;john.doe@example.com;1000001;5000;2500;2500
+cdbdcb5c-13ce-4e53-bb96-4b1ebbc1e5b2;Jane Smith;jane.smith@example.com;1000002;6000;3000;3000
+bb5fc056-307d-4479-b746-0d1350b92b74;Bob Johnson;bob.johnson@example.com;1000003;7000;3500;3500
+2908cb44-dcc2-4ba0-8d9d-a5b25b3fa3cc;Alice Williams;alice.williams@example.com;1000004;8000;4000;4000
+3c888f4f-58ac-4e39-bb7d-3c93bd72195e;Charlie Brown;charlie.brown@example.com;1000005;9000;4500;4500
+6b19f25a-e0d7-419e-93d6-bd46498b4f4e;David Davis;david.davis@example.com;1000006;9500;4750;4750
+12a0296a-eeeb-4daa-a730-65e7e6a937e8;Eva Evans;eva.evans@example.com;1000007;9900;4950;4950
+9f3a91b3-cad6-4f14-8184-e9b7f6fa3b1a;Frank Franklin;frank.franklin@example.com;1000008;9800;4900;4900
+23223581-163b-43d5-907f-a15ac0463b37;Grace Green;grace.green@example.com;1000009;9700;4850;4850
+bf114423-e6d6-4966-8f86-9c558c212690;Hannah Hill;hannah.hill@example.com;1000010;9600;4800;4800
